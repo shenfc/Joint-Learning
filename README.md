@@ -9,6 +9,6 @@ __Collaborators__
 
 Dr. Chen Wang, Dr. Yiqing Zhao, Andrew Wen, and Dr. Hongfang Liu.
 
-__Data__
+## Data
 
 Cancer network file along with corresponding network embeddings can be found here.
